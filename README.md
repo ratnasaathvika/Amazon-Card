@@ -15,7 +15,7 @@ This is a simple, responsive product card UI built using HTML and CSS, showcasin
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3 (Flexbox)
+- CSS3
 
 ## 📷 Output Preview
 
